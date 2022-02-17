@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Cryptocurrency Application
 
 The application displays the top cryptocurrencies in the world, top news articles related and the price trend of the currencies.\
 The application uses Ant Design for creating user interfaces.\
